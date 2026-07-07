@@ -5,7 +5,7 @@ allowed-tools: Bash(git status:*), Bash(git diff --staged), Bash(git commit:*)
 
 ## Your task:
 
-Analyze above staged git chnages and create a commit message. Use present tnese and explain "Why" something has changed, not just "what" has changed. 
+Analyze the above staged git changes and create a commit message. Use present tense and explain "Why" something has changed, not just "what" has changed. 
 
 ## Run these commands:
 
@@ -17,13 +17,13 @@ git diff --staged
 ## Commit types with emojis: 
 Only use the following emojis: 
 
-- `feat:` - New feature 
-- `fix:` - Bug fix
-- `refactor:` - Refactoring code 
-- `docs:` - Documentation 
-- `style:` - styling/formatting 
-- `test:` - Tests
-- `perf:` Performance 
+- 🌃 `feat:` - New feature 
+- 🪶 `fix:` - Bug fix
+- 🔨 `refactor:` - Refactoring code 
+- 🗒️ `docs:` - Documentation 
+- 🖌️ `style:` - styling/formatting 
+- ☑️ `test:` - Tests
+- 🤸 `perf:` Performance 
 
 ## Format:
 Use the following format for making the commit message:
